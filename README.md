@@ -77,6 +77,7 @@ Possibilité d’ajouter confirmation JS
 
 
 # 🧩 Organisation du projet
+```
 /recettes-app-v2
   db.php
   functions.php
@@ -87,3 +88,4 @@ Possibilité d’ajouter confirmation JS
     update.php
     delete.php
   /images
+```
