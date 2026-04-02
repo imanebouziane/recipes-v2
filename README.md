@@ -66,14 +66,14 @@ Via un formulaire dans la page **create.php** contenant :
 - insertion en base de données
 
 ## ✏️ 3. Modifier une recette (UPDATE)
-Le clic sur le bouton "Modifier" dans la page **read.php** redirige l'utilisateur à la page **update.php** en récupérant l'ID de la recette.
-La page **update.php** contient un formulaire pré-rempli
-La soumission du formulaire modifier les données de la recette en question dans la base de données
+- Le clic sur le bouton "Modifier" dans la page **read.php** redirige l'utilisateur à la page **update.php** en récupérant l'ID de la recette.
+- La page **update.php** contient un formulaire pré-rempli
+- La soumission du formulaire modifier les données de la recette en question dans la base de données
 
 ## ❌ 4. Supprimer une recette (DELETE)
-Le clic sur le bouton "Supprimer" dans la page **read.php** redirige l'utilisateur à la page **delete.php** en récupérant l'ID de la recette.
-Supprimer une recette via son ID
-Possibilité d’ajouter confirmation JS
+- Le clic sur le bouton "Supprimer" dans la page **read.php** redirige l'utilisateur à la page **delete.php** en récupérant l'ID de la recette.
+- Supprimer une recette via son ID
+- Possibilité d’ajouter confirmation JS
 
 
 # 🧩 Organisation du projet
