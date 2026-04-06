@@ -88,4 +88,6 @@ Via un formulaire dans la page **create.php** contenant :
     update.php
     delete.php
   /images
+  /css
+    style.css
 ```
